@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+#navigation{
+	
+	margin: 0 auto 0 auto;	
+	
+	
+}
+
+#navigation > li{
+	
+	display: inline
+	
+}
